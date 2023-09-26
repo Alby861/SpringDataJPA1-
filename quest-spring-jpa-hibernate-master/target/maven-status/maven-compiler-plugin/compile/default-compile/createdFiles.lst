@@ -1,0 +1,7 @@
+com\wildcodeschool\wildandwizard\controller\WizardController.class
+com\wildcodeschool\wildandwizard\entity\School.class
+com\wildcodeschool\wildandwizard\repository\WizardRepository.class
+com\wildcodeschool\wildandwizard\WildAndWizardApplication.class
+com\wildcodeschool\wildandwizard\controller\SchoolController.class
+com\wildcodeschool\wildandwizard\repository\SchoolRepository.class
+com\wildcodeschool\wildandwizard\entity\Wizard.class
